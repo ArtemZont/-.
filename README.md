@@ -29,7 +29,11 @@
 <br></br>
 <img src="https://user-images.githubusercontent.com/124985495/222655277-d7b85b26-325c-4720-ad19-3e082dd275cb.png">
 <br></br>
-<h3 align="center">Практическая работа 3 - Интрернет магазин</h3>
+<h3 align="center">Работа с репозиторием и предметной областью Интернет-магазина.</h3>
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/224268737-0d11b864-ff2a-459a-937d-4fde818850ea.png">
+<br></br>
+<h3 align="center">Проектирование базы данных для API интернет магазина.</h3>
 Для начала создаем диаграмму
 <img src="https://user-images.githubusercontent.com/124985495/222645550-82064f66-65fd-47cb-8206-ad4e435f93c7.png" width="350" title="hover text">
 Переносим в SQL 
