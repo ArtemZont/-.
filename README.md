@@ -39,3 +39,6 @@
 Переносим в SQL 
 <img src="https://user-images.githubusercontent.com/124985495/222666119-23006ce0-5da7-4987-98a2-61d4e4213fbe.png" >
 <a href="WebShop.sql">Перенесённая бд в SQL</a> <br></br>
+Имигрируем бд в проект API
+<img src="https://user-images.githubusercontent.com/124985495/225843930-8dc5ed16-8077-4901-9686-ba056a8c5c49.png" >
+
