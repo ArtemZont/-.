@@ -44,7 +44,8 @@
 <br></br>
 <h3 align="center">Практическая 5</h3>
 <br></br>
-<a href="WebShop.sql">Практическая 5</a> <br></br>
+<a href="WebShop.sql">Практическая 5 - База данных</a> <br></br>
+<a href="Практ 5/UserController.cs"> Практическая 5 - основные методы</a>
 Вывод всех пользователей
 <img src="https://user-images.githubusercontent.com/124985495/225869632-5fd7bdea-2a64-4ff4-b0e1-c288c2f62a51.png" >
 
