@@ -41,4 +41,16 @@
 <a href="WebShop.sql">Перенесённая бд в SQL</a> <br></br>
 Имигрируем бд в проект API
 <img src="https://user-images.githubusercontent.com/124985495/225843930-8dc5ed16-8077-4901-9686-ba056a8c5c49.png" >
+<br></br>
+<h3 align="center">Практическая 5</h3>
+<br></br>
+<a href="WebShop.sql">Практическая 5</a> <br></br>
+Вывод всех пользователей
+<img src="https://user-images.githubusercontent.com/124985495/225869632-5fd7bdea-2a64-4ff4-b0e1-c288c2f62a51.png" >
+
+Удаление пользователя по id
+<img src="https://user-images.githubusercontent.com/124985495/225874673-efb3db78-0877-40a3-849e-feb24bde52e3.png" >
+<br></br>
+Вывод пользователя по id
+<img src="https://user-images.githubusercontent.com/124985495/225874136-dc09ad95-c055-45e9-930b-cae278e8c643.png" >
 
