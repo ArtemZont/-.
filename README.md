@@ -55,3 +55,7 @@
 Вывод пользователя по id
 <img src="https://user-images.githubusercontent.com/124985495/225874136-dc09ad95-c055-45e9-930b-cae278e8c643.png" >
 
+<h3 align="center">Практическая 6. Создание слоя Domain, который будет хранить абстракции</h3>
+<img src="https://user-images.githubusercontent.com/124985495/225898281-552b0a10-ece9-4d29-a716-4027e2ebb0f8.png" >
+
+
