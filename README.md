@@ -58,4 +58,47 @@
 <h3 align="center">Практическая 6. Создание слоя Domain, который будет хранить абстракции</h3>
 <img src="https://user-images.githubusercontent.com/124985495/225898281-552b0a10-ece9-4d29-a716-4027e2ebb0f8.png" >
 
+Изменение пространство имён для всех моделей БД
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230552381-2ee4db2a-075b-4603-ae2b-7bf7367a9da1.png" >
+<br></br>
+Изменение пространство имён для для всех интерфейсов в проекте Domain
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230552444-a584fa47-de23-4a4e-95bf-dde085291a09.png" >
+<br></br>
+Изменение зависимостей проектов
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230552706-219d123d-3571-4b94-ad86-a6a0c001107f.png" >
+<br></br>
+Сформирование файлов для миграции в папке Migration
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230552942-eb44345a-f3c7-4335-93f4-985b2e14a9d6.png" >
+<br></br>
+Изменения некоторых методов для классов RepositoryBase, UserService, RepositoryWrapper.
+<br></br>
+Класс RepositoryBase
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230553492-b0f44ba6-f3b0-4443-9ef3-b795d7a0f014.png" >
+<br></br>
+Класс UserService
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230553686-bd7cbbe9-2f22-46ec-aff7-dd191f611af1.png" >
+<br></br>
+Интерфейс IRepositoryBase
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230554161-f7c6597c-9b5b-44c4-ae2f-9424c126fb97.png" >
+<br></br>
+Интерфейс IRepositoryWrapper
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230554235-35aed06c-b01e-4b9c-b2ea-f65eb65ca97d.png" >
+<br></br>
+Интерфейс IUserService
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230554333-94ad3c56-eeb3-4d4b-aadb-a86bc8401737.png" >
+<br></br>
 
+<br></br>
+Сформировавшаяся база данных
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230553243-9fb315ff-80c2-4f09-8afc-eb5cfbd2cbd7.png" >
+<br></br>
