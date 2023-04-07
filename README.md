@@ -102,3 +102,14 @@
 <br></br>
 <img src="https://user-images.githubusercontent.com/124985495/230553243-9fb315ff-80c2-4f09-8afc-eb5cfbd2cbd7.png" >
 <br></br>
+
+<h3 align="center">Практическая 7. Добавление процесса “Непрерывной интеграции” (CI) в репозиторий</h3>
+Проверка форматирования кода через командную строку
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230574933-dcf63faa-5c16-4724-819a-07d57ed4832d.png" >
+<br></br>
+Создание .editorconfig в Visual Studio 2022
+<br></br>
+<img src="https://user-images.githubusercontent.com/124985495/230575310-2941d58e-bb86-41eb-9ea8-4658cf66f8ce.png" >
+<br></br>
+
