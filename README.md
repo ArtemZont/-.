@@ -114,5 +114,10 @@
 <br></br>
 <img src="https://github.com/ArtemZont/Practice/assets/124985495/b74524d4-447e-4310-a0cc-ba9e0d7b2dc5" >
 <br></br>
-
+<img src="https://github.com/ArtemZont/Practice/assets/124985495/a5e40fb4-b66d-4bd1-a30e-efa472ff7027" >
+<br></br>
+<img src="https://github.com/ArtemZont/Practice/assets/124985495/537d9035-e6dd-4e6a-8b6b-695602c62feb" >
+<br></br>
+<img src="https://github.com/ArtemZont/Practice/assets/124985495/3728bdc4-4f16-4d46-a045-165fd53bbe01" >
+<br></br>
 
