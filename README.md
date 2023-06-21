@@ -129,5 +129,9 @@
 <br></br>
 <img src="https://github.com/ArtemZont/Practice/assets/124985495/9d63645f-d618-4527-bb15-a68ec8737f8a" >
 <br></br>
+<img src="https://github.com/ArtemZont/Practice/assets/124985495/ffb55bba-b677-4896-a88e-ba481bd74619" >
+<br></br>
+<img src="https://github.com/ArtemZont/Practice/assets/124985495/7a5b384f-0e9e-4bb7-acd4-c756f3932b5a" >
+<br></br>
 
 
