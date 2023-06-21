@@ -120,12 +120,12 @@
 <br></br>
 <img src="https://github.com/ArtemZont/Practice/assets/124985495/3728bdc4-4f16-4d46-a045-165fd53bbe01" >
 <br></br>
-<br></br>
+<h3 align="center">Практическая 9. Тестирование во время непрерывной интеграции.</h3>
 <img src="https://github.com/ArtemZont/Practice/assets/124985495/376d9e2e-cd73-4ec3-83dd-269ad39b9dd5" >
-<br></br>
 <br></br>
 <img src="https://github.com/ArtemZont/Practice/assets/124985495/1d1cfd24-da63-4739-8b44-dc950b83e01d" >
 <br></br>
+<img src="https://github.com/ArtemZont/Practice/assets/124985495/85c9137a-45b8-4cc9-b3ff-b080450d5c30" >
 <br></br>
 <img src="https://github.com/ArtemZont/Practice/assets/124985495/9d63645f-d618-4527-bb15-a68ec8737f8a" >
 <br></br>
